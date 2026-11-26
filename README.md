@@ -218,7 +218,7 @@ Kiểm tra lại `db.properties`, hoặc chạy lại script cài database.
 ## Thành viên nhóm
 
 - Lê Nguyễn Nhật Quang
-- Bach Quoc Thoai
-- Nguyen Thi Tuong Vy
-- Tang Thanh Tai
+- Bạch Quốc Thoại
+- Nguyễn Thị Tường Vy
+- Tăng Thành Tài
 - Trần Thị Hồng Vân
